@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Khandelwal</h1>
 <h3 align="center">I am a driven and passionate computer science and engineering student at ADGITM Delhi India</h3>
-
+![logo](https://github.com/yashkhandelwal2203/yashkhandelwal2203/blob/main/banner.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashkhandelwal2203&label=Profile%20views&color=0e75b6&style=flat" alt="yashkhandelwal2203" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashkhandelwal2203" alt="yashkhandelwal2203" /></a> </p>
